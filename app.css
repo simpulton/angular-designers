@@ -1,0 +1,10 @@
+.box {
+    position: relative;
+    background-color: #abc;
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    cursor: pointer
+}
+
+​
